@@ -1,5 +1,3 @@
-​
-​
 官网链接：https://youxuebao.com.cn
 
 管理后台演示地址：https://demoadmin.youxuebao.com.cn/admin
@@ -14,15 +12,13 @@
 
 前端演示账号：1234Qwer11 密码：1234Qwer!
 
-​
-
 图片示例：
 
-![输入图片说明](ops-coffee-1777941113815.jpg)
+![输入图片说明](https://demo.youxuebao.com.cn/wechatmini/ops-coffee-1777864984553.jpg)
 
-![输入图片说明](ops-coffee-1777941170147.jpg)
+![输入图片说明](https://demo.youxuebao.com.cn/wechatmini/ops-coffee-1777864924535.jpg)
 
-![输入图片说明](ops-coffee-1777941223452.jpg)
+![输入图片说明](https://demo.youxuebao.com.cn/wechatmini/ops-coffee-1777864877931.jpg)
 
 需要前后端源码、数据库请联系我们，微信扫一扫添加好友
 
